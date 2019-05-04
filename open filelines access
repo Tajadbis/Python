@@ -1,0 +1,9 @@
+with open("Example1,"r") as File1:
+print("Firstline:" File1.readline())
+
+#Iterate through the lines 
+With open("Example:",r) as File1
+i=0
+for line in File1: 
+print("Iteration"str(i),":",line)
+i=i+1
