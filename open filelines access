@@ -7,3 +7,9 @@ i=0
 for line in File1: 
 print("Iteration"str(i),":",line)
 i=i+1
+Easier way,
+with open('example:","r") as File
+Filelist=File1.readline()
+#Each is the corresponding line of the file from line(0) as first
+Filelist(0) 
+Filelist(1)
